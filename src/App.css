@@ -1,0 +1,16 @@
+
+.todo-item-left {
+    text-align: left;
+}
+
+.kg-rows {
+    margin: 10px 5px;
+    align-items: center;
+}
+
+.kg-button {
+    min-width: 30px;
+    background-color: rgb(202, 238, 211);
+}
+
+

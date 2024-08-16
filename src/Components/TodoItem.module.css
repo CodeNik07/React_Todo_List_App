@@ -1,0 +1,11 @@
+.todoItemLeft {
+    text-align: left;
+}
+
+.deleteBtnComp {
+    width: 40px;
+    height: 40px;
+}
+.deleteButton:hover {
+    border: 1px solid purple;
+}

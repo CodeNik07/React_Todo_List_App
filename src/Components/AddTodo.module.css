@@ -1,0 +1,14 @@
+input {
+    margin-left: 2px;
+    padding: 5px;
+    width: 100%;
+}
+
+.addBtnComp {
+    width: 30px;
+    height: 30px;
+    
+}
+.addBtnDiv {
+    min-width: 30px;
+}
